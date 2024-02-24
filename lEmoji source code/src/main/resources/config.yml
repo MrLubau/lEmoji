@@ -1,0 +1,188 @@
+# ===================================================
+# lEmoji configuration
+#
+# You need a resourcepack for functionality!
+# ===================================================
+
+# Plugin information
+
+plugin-version: Beta-1.0
+plugin-prefix: "§8[§blEmoji§8] >>"
+
+
+
+
+# Default messages
+
+error-message: "§7Invalid argument!"
+reload-message: "§7The plugin has been successfully reloaded!"
+permission-message: "§7You don't have permission to do this!"
+help:
+  - "§8============================"
+  - "§blEmoji help"
+  - " "
+  - "§b/lemoji help"
+  - " §8- §7Displays the help menu"
+  - " "
+  - "§b/lemoji list"
+  - " §8- §7Writes all active emoji"
+  - " "
+  - "§b/lemoji reload"
+  - " §8- §7Reloads the plugin"
+  - "§8============================"
+
+
+
+# Emoji settings
+# If you want to change for example from :peepolove: to :loving_peepo: you only need to change the "name"! Not the whole section
+
+xd:
+  enable: true
+  name: xd
+
+pog:
+  enable: true
+  name: pog
+
+ragey:
+  name: ragey
+
+pepehands:
+  enable: true
+  name: pepehands
+
+monkas:
+  enable: true
+  name: monkas
+
+sadge:
+  enable: true
+  name: sadge
+
+pepepausechamp:
+  enable: true
+  name: pepepausechamp
+
+peepolove:
+  enable: true
+  name: peepolove
+
+peeposad:
+  enable: true
+  name: peeposad
+
+pausechamp:
+  enable: true
+  name: pausechamp
+
+pagman:
+  enable: true
+  name: pagman
+
+omegasp:
+  enable: true
+  name: omegasp
+
+omegalul:
+  enable: true
+  name: omegalul
+
+notlikethis:
+  enable: true
+  name: notlikethis
+
+monkahmm:
+  enable: true
+  name: monkahmm
+
+kek:
+  enable: true
+  name: kek
+
+huh:
+  enable: true
+  name: huh
+
+gasp:
+  enable: true
+  name: gasp
+
+kappa:
+  enable: true
+  name: kappa
+
+lul:
+  enable: true
+  name: lul
+
+pogchamp:
+  enable: true
+  name: pogchamp
+
+kekw:
+  enable: true
+  name: kekw
+
+pepelaugh:
+  enable: true
+  name: pepelaugh
+
+jebaited:
+  enable: true
+  name: jebaited
+
+weirdchamp:
+  enable: true
+  name: weirdchamp
+
+monkah:
+  enable: true
+  name: monkah
+
+forsencd:
+  enable: true
+  name: forsencd
+
+residentsleeper:
+  enable: true
+  name: residentsleeper
+
+3head:
+  enable: true
+  name: 3head
+
+heart:
+  enable: true
+  name: heart
+
+joy:
+  enable: true
+  name: joy
+
+rolf:
+  enable: true
+  name: rolf
+
+smile:
+  enable: true
+  name: smile
+
+grin:
+  enable: true
+  name: grin
+
+sweat:
+  enable: true
+  name: sweat
+
+sob:
+  enable: true
+  name: sob
+
+upside:
+  enable: true
+  name: upside
+
+hot:
+  enable: true
+  name: hot

@@ -1,0 +1,10 @@
+name: lEmoji
+version: '${project.version}'
+main: eu.mrlubau.lemoji.LEmoji
+api-version: '1.20'
+commands:
+  lemoji:
+    description: lEmoji commands
+    children:
+      reload:
+        description: Reload the plugin
